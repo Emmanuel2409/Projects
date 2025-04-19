@@ -6,7 +6,7 @@ prepared for submission to the 2025 PME-NA Conference.
 
 ## 📚 Project Overview
 
-This project explores the intersection of **educational data mining**, **AI fairness**, and **mathematical cognition**. It investigates how intelligent tutoring systems (ITS) and adaptive platforms like Desmos and GeoGebra shape students' mathematical understanding—especially their **embodied reasoning** and **affective engagement**.
+This project explores the intersection of **educational data mining**, **AI fairness**, and **mathematical cognition**. It investigates how intelligent tutoring systems (ITS) and adaptive platforms like Desmos and GeoGebra shape students' mathematical understanding especially their **embodied reasoning** and **affective engagement**.
 
 ---
 
@@ -94,7 +94,7 @@ plt.show()
 
 > Author: PhD Student in Applied Mathematics  
 > Institution: Illinois Institute of Technology  
-> Contact: [your.email@university.edu]  
+> Contact: easante@hawk.iit.edu
 > Status: Research-in-progress for PME-NA 2025
 
 ---
