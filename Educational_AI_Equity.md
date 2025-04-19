@@ -4,7 +4,7 @@ This repository supports my ongoing research titled **"Embodied Reasoning and Al
 
 ## 📚 Overview
 
-This project investigates how AI-driven educational tools—such as adaptive learning platforms and intelligent tutoring systems—affect students' reasoning, equity of access, and affective engagement, especially in mathematics learning contexts.
+This project investigates how AI-driven educational tools such as adaptive learning platforms and intelligent tutoring systems affect students' reasoning, equity of access, and affective engagement, especially in mathematics learning contexts.
 
 ## 🔍 Research Focus
 
